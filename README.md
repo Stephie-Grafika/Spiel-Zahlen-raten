@@ -1,4 +1,4 @@
-Javascript Tutorial Teil 1: Spiel - Zahl erraten
+# Javascript Tutorial Teil 1: Spiel - Zahl erraten
 
 HTML-Grundgerüst mit IDs für JS und Classen für Bootstrap
 
